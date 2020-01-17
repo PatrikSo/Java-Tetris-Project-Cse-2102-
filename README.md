@@ -3,3 +3,4 @@ My Tetris project from my Cse2102 -Software Engineering- class at Uconn Storrs
 
  * Snake App project
  * Bouncing Ball project
+ * Canvas color changing click project
